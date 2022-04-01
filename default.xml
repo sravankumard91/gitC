@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/sravankumard91" name="origin"/>
+	
+	<default remote="origin" sync-j="4" revision="master"/>
+	
+	<project name="gitA" path="A" />
+	<project name="gitB" path="B" />
+	
+</manifest>
